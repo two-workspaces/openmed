@@ -1,6 +1,6 @@
 # Deploy and Host OpenMed on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/openmed-api?referralCode=sLjDXb&utm_medium=integration&utm_source=button&utm_campaign=openmed-api)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/api?referralCode=sLjDXb&utm_medium=integration&utm_source=button&utm_campaign=api)
 
 [OpenMed](https://github.com/maziyarpanahi/openmed) is an open-source toolkit for clinical text: it finds diseases, drugs, genes and anatomy in medical notes, and it detects and removes personal information (names, dates of birth, record numbers, phones, addresses) in many languages. Its models are small open models that run on CPU. This template runs OpenMed's REST API from a pinned release, protected by an API key from the first boot, with downloaded models kept on a volume.
 
